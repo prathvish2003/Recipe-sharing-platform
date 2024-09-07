@@ -9,7 +9,7 @@ This project is a Recipe Sharing Platform built using **HTML**, **CSS**, **JavaS
 - Search functionality to find recipes based on ingredients, title, etc.
 - Responsive design for mobile and desktop views.
 
-## Technologies Used
+## Technologies used
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: PHP (for MySQL interaction)
